@@ -1,20 +1,26 @@
 # Simple Task App
 Welcome to the Simple Task App, a straightforward application developed using Swift.
 
-Features
+#Features
 Storyboard: The app is designed using Storyboard for a visually intuitive user interface.
+
 CocoaTouch File: Utilizing CocoaTouch files to enhance the app's functionality and responsiveness.
+
 UIKit: Leveraging the power of UIKit for building a modern and user-friendly interface.
+
 Core Data: Implementing Core Data for efficient data management and storage.
-Additional Components
+
+#Additional Components
 XIB: Extending functionality through the use of XIB files for more customized UI elements.
 Getting Started
 To get started with the Simple Task App, follow these steps:
 
-Clone the repository to your local machine.
+#Clone the repository to your local machine.
 
 bash
+
 Copy code
+
 git clone https://github.com/your-username/simple-task-app.git
 Open the project in Xcode.
 
