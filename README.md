@@ -21,7 +21,7 @@ bash
 
 Copy code
 
-git clone https://github.com/your-username/simple-task-app.git
+git clone https://github.com/hebaomar94/simple-task-app.git
 Open the project in Xcode.
 
 Build and run the app on your simulator or device.
