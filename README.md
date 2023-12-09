@@ -21,7 +21,7 @@ bash
 
 Copy code
 
-git clone git@github.com:hebaomar94/Task_app_firstProject.git
+git clone [git@github.com:hebaomar94/Task_app_firstProject.git](https://github.com/hebaomar94/Task_app_firstProject.git)
 Open the project in Xcode.
 
 Build and run the app on your simulator or device.
